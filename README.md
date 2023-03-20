@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+
 <html lang="es">
   <head>
     <title>AppDeGatos</title>
@@ -39,11 +40,9 @@
         <!-- Botones de Radio -->
         <label for="interior">
           <input id="interior" type="radio" value="interior" name="interior-exterior">Interior
-        </label>
         <br>
         <label for="exterior">
           <input id="exterior" type="radio" value="exterior" name="interior-exterior">Exterior
-        </label>
         <br>
 
         <h2>Ingrese su nombre</h2>
@@ -62,10 +61,8 @@
         <button type="submit">Enviar</button>
         <button type="reset">Limpiar</button>
       </form>
-    </main>
     <br>
     <footer>
       <p><small>Sin Derechos de Autor - <a href="https://www.freecodecamp.org/espanol/">freeCodeCamp.org</a></small></p>
     </footer>
-  </body>
-</html>
+  
